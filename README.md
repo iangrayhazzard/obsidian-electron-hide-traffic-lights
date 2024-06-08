@@ -1,20 +1,7 @@
-## Obsidian Electron Window Tweaker
+## Obsidian Electron Hide Traffic Lights
 
-Tweak various Electron window settings.
+Hides the traffic lights on MacOS using the electron traffic light offset API. Looks great with the minimal theme.
 
-Currently supported:
-- Window opacity
-- Window vibrancy (on MacOS)
-- Always on top
+**You will have to close, minimize, and fullscreen the app using shortcuts or the topbar menu since the traffic lights will not be accessible!**
 
-*Note: not all setting work on all operating systems*
-
-<img src="https://raw.githubusercontent.com/mgmeyers/obsidian-electron-window-tweaker/main/Screenshot.png" alt="Settings screenshot">
-
-## Support
-
-If you find this plugin useful, consider supporting its development:
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/mgmeyers?label=Sponsor&logo=GitHub%20Sponsors&style=for-the-badge)](https://github.com/sponsors/mgmeyers)
-
-<a href="https://www.buymeacoffee.com/mgme"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mgme&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
+_Note: this plugin will not do anything on other operating systems or mobile devices_
