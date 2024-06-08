@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-electron-window-tweaker",
-	"name": "Electron Window Tweaker",
-	"version": "1.0.8",
+	"id": "obsidian-electron-hide-traffic-lights",
+	"name": "Electron Hide Traffic Lights",
+	"version": "1.0.0",
 	"minAppVersion": "0.12.3",
-	"description": "Tweak various Electron window settings.",
-	"author": "mgmeyers",
-	"authorUrl": "https://github.com/mgmeyers/obsidian-electron-window-tweaker",
+	"description": "Turn off the traffic lights on MacOS without needing fullscreen",
+	"author": "iangrayhazzard",
+	"authorUrl": "https://github.com/iangrayhazzard",
 	"isDesktopOnly": true
 }
